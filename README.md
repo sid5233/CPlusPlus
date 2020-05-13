@@ -1,2 +1,2 @@
-# C-
+# CPlusPlus
 All CPP programs
