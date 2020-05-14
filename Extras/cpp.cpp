@@ -5,7 +5,6 @@ using namespace std;
 
 int main()
 {
- //clrscr();
  char str[5][20], t[20];
  int i, j;
  cout<<"Please Enter Any Five Name: ";
