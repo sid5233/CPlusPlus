@@ -25,7 +25,6 @@ int main()
      {
          cout << arr[i] << " "; 
      }
-    cout << "\nNth element is " << arr[num-1] << endl;
-       
+ 
     return 0;
 }
